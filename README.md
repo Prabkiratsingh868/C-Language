@@ -4,9 +4,14 @@ To compile: gcc filename.c -o filename
 
 This is what I do in my C language what I learn and what I study. Follow with me and see the code and try it
 
-Chapter 1 - Variables , Constants and Data types
-Chapter 2 - Instructions and Operators
-Chapter 3 - Conditional Instructions
-Chapter 4 - Loop Control Instructions
-Project 1 - Number Guessing Game
-Chapter 5 - Function and recursion
+Chapter 1 - VARIABLES , CONSTANT AND DATATYPES
+
+Chapter 2 - INSTRUCTIONS AND OPERATORS
+
+Chapter 3 - CONDITIONAL INSTRUCTIONS
+
+Chapter 4 - LOOP CONTROL INSTRUCTIONS
+
+Project 1 - NUMBER GUESSING GAME
+
+Chapter 5 - FUNCTION AND RECURSION
