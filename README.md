@@ -4,7 +4,7 @@ To compile: gcc filename.c -o filename
 
 This is what I do in my C language what I learn and what I study. Follow with me and see the code and try it
 
-Chapter 1 - VARIABLES , CONSTANT AND DATATYPES
+CHAPTER 1 - Variables , Constant and Datatypes
 
 Chapter 2 - INSTRUCTIONS AND OPERATORS
 
