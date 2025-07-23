@@ -6,12 +6,12 @@ This is what I do in my C language what I learn and what I study. Follow with me
 
 CHAPTER 1 - Variables , Constant and Datatypes
 
-Chapter 2 - INSTRUCTIONS AND OPERATORS
+Chapter 2 - Instructions and Operators
 
-Chapter 3 - CONDITIONAL INSTRUCTIONS
+Chapter 3 - Conditional Instructions
 
-Chapter 4 - LOOP CONTROL INSTRUCTIONS
+Chapter 4 - Loop Control Instructions
 
-Project 1 - NUMBER GUESSING GAME
+Project 1 - Number Guessing Game
 
-Chapter 5 - FUNCTION AND RECURSION
+Chapter 5 - Function and Recursion
