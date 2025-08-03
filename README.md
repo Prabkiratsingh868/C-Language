@@ -15,3 +15,5 @@ Chapter 4 - Loop Control Instructions
 Project 1 - Number Guessing Game
 
 Chapter 5 - Function and Recursion
+
+Chapter 6 - Pointers
