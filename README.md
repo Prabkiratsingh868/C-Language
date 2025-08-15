@@ -19,3 +19,5 @@ Chapter 5 - Function and Recursion
 Chapter 6 - Pointers
 
 Chapter 7 - Arrays
+
+Chapter 8 - Strings
