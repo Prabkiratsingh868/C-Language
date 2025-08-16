@@ -21,3 +21,5 @@ Chapter 6 - Pointers
 Chapter 7 - Arrays
 
 Chapter 8 - Strings
+
+Chapter 9 - Structures
