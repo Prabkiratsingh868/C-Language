@@ -23,3 +23,5 @@ Chapter 7 - Arrays
 Chapter 8 - Strings
 
 Chapter 9 - Structures
+
+Chapter 10 - File I/O
