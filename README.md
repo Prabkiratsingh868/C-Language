@@ -25,3 +25,5 @@ Chapter 8 - Strings
 Chapter 9 - Structures
 
 Chapter 10 - File I/O
+
+Project 2 - Snake Water Gun
