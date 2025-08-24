@@ -27,3 +27,5 @@ Chapter 9 - Structures
 Chapter 10 - File I/O
 
 Project 2 - Snake Water Gun
+
+Chapter 11 - Dynamic Memory Allocation
